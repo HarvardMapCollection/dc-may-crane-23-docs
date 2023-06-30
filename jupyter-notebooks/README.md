@@ -4,3 +4,5 @@ Data and documentation to accompany the '23 summer data project.
 Source data came from [link name](https://github.com/HarvardMapCollection/hgl-explr/blob/main/data/hgl-records-summary.csv)
 
 
+- list item 1
+- list item 2
